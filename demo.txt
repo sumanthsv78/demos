@@ -5,3 +5,4 @@ hi new edit
 welcome sumanthhi
 new entry
 reset
+ok done
